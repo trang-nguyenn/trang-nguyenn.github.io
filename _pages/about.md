@@ -19,7 +19,7 @@ by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/).
 
 ## News
 
-- During summer of 2020 I will be interning at Google Brain to work on reinforcement learning.
+- Next summer I will be interning at Google Brain to work on reinforcement learning.
 - Our paper [Variational Autoencoders for Cancer Data Integration: Design Principles and Computational Practice](https://www.frontiersin.org/articles/10.3389/fgene.2019.01205/full)
 has been published in the journal Frontiers in Genetics.
 - Our paper [Proximal Distilled Evolutionary Reinforcement Learning](https://arxiv.org/abs/1906.09807)

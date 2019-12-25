@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD student in the Department of Computer Science and Technology, University of Cambridge, supervised by
-[Prof Pietro Lio](https://www.cl.cam.ac.uk/~pl219/).
+[Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/).
 
 This year I have graduated with distinction the MPhil in Advanced Computer Science, 
 while also receiving the Best MPhil Student Award. Over the summer I interned at Google X, where I worked 

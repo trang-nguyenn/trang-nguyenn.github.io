@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 I am a PhD student in the Department of Computer Science and Technology, University of Cambridge, supervised by
 [Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/).
 

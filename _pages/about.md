@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: ""
 excerpt: "Cristian Bodnar"
 author_profile: true
 redirect_from: 

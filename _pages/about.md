@@ -25,4 +25,4 @@ has been published in the journal Frontiers in Genetics.
 - Our paper [Proximal Distilled Evolutionary Reinforcement Learning](https://arxiv.org/abs/1906.09807)
 has been accepted at [AAAI-20](https://aaai.org/Conferences/AAAI-20/) in New York. 
 - The paper I worked on during my AI Residency at Google X, [Quantile QT-Opt for Risk-Aware
-Vision-Based Robotic Grasping](https://q2-opt.github.io/), has been submitted to ICRA 2020. 
+Vision-Based Robotic Grasping](https://q2-opt.github.io/), is now available as a preprint. 

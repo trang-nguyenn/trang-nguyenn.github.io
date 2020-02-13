@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 I am a PhD student in the Department of Computer Science and Technology, University of Cambridge, supervised by
-[Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/).
+[Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/). I am interested in topology and the theory of deep learning. I ocasionally work on reinforcement learning.   
 
 In 2019 I have graduated with distinction the MPhil in Advanced Computer Science, 
 while also receiving the Best MPhil Student Award. Over the summer of 2019 I interned at Google X, where I worked 
@@ -18,7 +18,8 @@ by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/).
 
 ## News
 
-- Next summer I will be interning at Google Brain to work on reinforcement learning.
+- We've released a new preprint: [Deep Graph Mapper: Seeing Graphs through the Neural Lens](https://arxiv.org/abs/2002.03864)
+- Happy to announce next summer I will be interning at Google Brain.
 - Our paper [Variational Autoencoders for Cancer Data Integration: Design Principles and Computational Practice](https://www.frontiersin.org/articles/10.3389/fgene.2019.01205/full)
 has been published in the journal Frontiers in Genetics.
 - Our paper [Proximal Distilled Evolutionary Reinforcement Learning](https://arxiv.org/abs/1906.09807)

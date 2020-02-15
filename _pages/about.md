@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 I am a PhD student in the Department of Computer Science and Technology, University of Cambridge, supervised by
-[Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/). I am interested in topology and the theory of deep learning. I ocasionally work on reinforcement learning.   
+[Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/). I am working on a (topological) theory of deep learning and neural networks able to extract and exploit topological information. Ocasionally, I also work on reinforcement learning.  
 
 In 2019 I have graduated with distinction the MPhil in Advanced Computer Science, 
 while also receiving the Best MPhil Student Award. Over the summer of 2019 I interned at Google X, where I worked 

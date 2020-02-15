@@ -26,3 +26,7 @@ has been published in the journal Frontiers in Genetics.
 has been accepted at [AAAI-20](https://aaai.org/Conferences/AAAI-20/) in New York. 
 - The paper I worked on during my AI Residency at Google X, [Quantile QT-Opt for Risk-Aware
 Vision-Based Robotic Grasping](https://q2-opt.github.io/), is now available as a preprint. 
+
+### Teaching 
+
+- Supervising the Cambrdige 3rd year course on [Quantum Computing] (https://www.cl.cam.ac.uk/teaching/1920/QuantComp/)

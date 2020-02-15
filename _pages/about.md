@@ -29,4 +29,4 @@ Vision-Based Robotic Grasping](https://q2-opt.github.io/), is now available as a
 
 ### Teaching 
 
-- Supervising the Cambrdige 3rd year course on [Quantum Computing] (https://www.cl.cam.ac.uk/teaching/1920/QuantComp/)
+- Supervising the Cambrdige 3rd year course on [Quantum Computing](https://www.cl.cam.ac.uk/teaching/1920/QuantComp/)

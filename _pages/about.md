@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 I am a first-year PhD student in the Department of Computer Science, University of Cambridge, supervised by
-[Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/). My research is mainly focused on neural networks able to extract and exploit topological information from the data. At the same time, I am working on the science of deep learning using tools from algebraic and differential topology.
+[Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/). My research is mainly focused on neural networks able to extract and exploit topological information from data. At the same time, I am working on the science of deep learning using tools from algebraic and differential topology.
 
 In 2019 I have graduated with distinction the MPhil in Advanced Computer Science, 
 while also receiving the Best MPhil Student Award. Over the summer of 2019 I interned at Google X, where I worked 

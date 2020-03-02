@@ -6,14 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in the Department of Computer Science and Technology, University of Cambridge, supervised by
-[Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/). I am working on the (topological) theory of deep learning and neural networks able to extract and exploit topological information. Ocasionally, I also work on reinforcement learning.  
+I am a first-year PhD student in the Department of Computer Science, University of Cambridge, supervised by
+[Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/). My research is mainly focused on neural networks able to extract and exploit topological information from the data. At the same time, I am working on the science of deep learning using tools from algebraic and differential topology.
 
 In 2019 I have graduated with distinction the MPhil in Advanced Computer Science, 
 while also receiving the Best MPhil Student Award. Over the summer of 2019 I interned at Google X, where I worked 
 on Reinforcement Learning as part of the [Everyday Robot Project](https://x.company/projects/everyday-robots). 
 Previously, I did my undergraduate at The University of 
-Manchester in the UK with a dissertation on Text to Image Synthesis using Generative Adversarial Networks supervised 
+Manchester in the UK with an [award-winning](https://www.manchester.ac.uk/discover/news/multiple-successes-for-manchester-undergrads-at-worlds-most-prestigious-student-awards/) dissertation on *Text to Image Synthesis using Generative Adversarial Networks* supervised 
 by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/). 
 
 ## News

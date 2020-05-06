@@ -18,14 +18,15 @@ by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/).
 
 ## News
 
-- We've released a new preprint: [Deep Graph Mapper: Seeing Graphs through the Neural Lens](https://arxiv.org/abs/2002.03864)
+- Our paper [Quantile QT-Opt for Risk-Aware
+Vision-Based Robotic Grasping](https://q2-opt.github.io/) was accepted to RSS 2020. 
+- We presented our new preprint [Deep Graph Mapper: Seeing Graphs through the Neural Lens](https://arxiv.org/abs/2002.03864) as a poster at the [ELLIS Workshop on
+Geometric and Relational Deep Learning](https://geometric-relational-dl.github.io/) in Amsterdam. 
 - Happy to announce next summer I will be interning at Google Brain.
 - Our paper [Variational Autoencoders for Cancer Data Integration: Design Principles and Computational Practice](https://www.frontiersin.org/articles/10.3389/fgene.2019.01205/full)
 has been published in the journal Frontiers in Genetics.
 - Our paper [Proximal Distilled Evolutionary Reinforcement Learning](https://arxiv.org/abs/1906.09807)
-has been accepted at [AAAI-20](https://aaai.org/Conferences/AAAI-20/) in New York. 
-- The paper I worked on during my AI Residency at Google X, [Quantile QT-Opt for Risk-Aware
-Vision-Based Robotic Grasping](https://q2-opt.github.io/), is now available as a preprint. 
+has been accepted at [AAAI-20](https://aaai.org/Conferences/AAAI-20/) in New York.  
 
 ## Teaching 
 

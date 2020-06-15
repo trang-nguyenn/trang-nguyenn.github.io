@@ -18,6 +18,8 @@ by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/).
 
 ## News
 
+- We released a new preprint, [On Second Order Behaviour in Augmented Neural ODEs](https://arxiv.org/abs/2006.07220), in which
+we study how Neural Ordinary Differential Equations learn 2nd order dynamics. 
 - Our paper [Quantile QT-Opt for Risk-Aware
 Vision-Based Robotic Grasping](https://q2-opt.github.io/) was accepted to RSS 2020. 
 - We presented our new preprint [Deep Graph Mapper: Seeing Graphs through the Neural Lens](https://arxiv.org/abs/2002.03864) as a poster at the [ELLIS Workshop on

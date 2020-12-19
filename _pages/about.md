@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year PhD student in the Department of Computer Science, University of Cambridge, supervised by
+I am a second-year PhD student in the Department of Computer Science, University of Cambridge, supervised by
 [Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/). My research is mainly focused on neural networks able to extract and exploit topological information from data. At the same time, I am working on the science of deep learning using tools from algebraic and differential topology.
 
 In 2019 I have graduated with distinction the MPhil in Advanced Computer Science, 
@@ -18,13 +18,12 @@ by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/).
 
 ## News
 
-- We released a new preprint, [On Second Order Behaviour in Augmented Neural ODEs](https://arxiv.org/abs/2006.07220), in which
-we study how Neural Ordinary Differential Equations learn 2nd order dynamics. 
-- Our paper [Quantile QT-Opt for Risk-Aware
-Vision-Based Robotic Grasping](https://q2-opt.github.io/) was accepted to RSS 2020. 
-- We presented our new preprint [Deep Graph Mapper: Seeing Graphs through the Neural Lens](https://arxiv.org/abs/2002.03864) as a poster at the [ELLIS Workshop on
-Geometric and Relational Deep Learning](https://geometric-relational-dl.github.io/) in Amsterdam. 
-- Happy to announce next summer I will be interning at Google Brain.
+- I have been awarded the Leathersellers Graduate Scholarships[https://www.fitz.cam.ac.uk/college-life/fees-funding-and-awards/postgraduate-scholarships-and-prizes] by Fitzwilliam College and The Leathersellers' Company, one of the ancient Livery Companies of the City of London. The scholarship is awarded to four students each year for excellence in Physical or Biological Sciences, Engineering or Mathematics. 
+- A shorter version of our latest work on [Neural ODE Processes](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_66.pdf) has been accepted to the Machine Learning in the Physical Sciences NeurIPS 2020 Workshop. 
+- Our paper [On Second Order Behaviour in Augmented Neural ODEs](https://arxiv.org/abs/2006.07220) has been accepted at NeurIPS 2020. 
+- [Deep Graph Mapper: Seeing Graphs through the Neural Lens](https://arxiv.org/abs/2002.03864) has been accepted to the Topological Data Analysis and Beyond NeurIPS 2020 Workshop. 
+- [A Geometric Perspective on Self-Supervised Policy Adaptation](https://arxiv.org/abs/2011.07318) has been accepted to the Challenges of Real-World Reinforcement Learning NeurIPS 2020 Workshop. The work was carried out during my internship at Google Brain.  
+- Our paper [Quantile QT-Opt for Risk-Aware Vision-Based Robotic Grasping](https://q2-opt.github.io/) was selected among the three finalists in the Best Systems Paper category at RSS 2020. 
 - Our paper [Variational Autoencoders for Cancer Data Integration: Design Principles and Computational Practice](https://www.frontiersin.org/articles/10.3389/fgene.2019.01205/full)
 has been published in the journal Frontiers in Genetics.
 - Our paper [Proximal Distilled Evolutionary Reinforcement Learning](https://arxiv.org/abs/1906.09807)

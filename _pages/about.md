@@ -18,7 +18,7 @@ by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/).
 
 ## News
 
-- I have been awarded the Leathersellers Graduate Scholarships[https://www.fitz.cam.ac.uk/college-life/fees-funding-and-awards/postgraduate-scholarships-and-prizes] by Fitzwilliam College and The Leathersellers' Company, one of the ancient Livery Companies of the City of London. The scholarship is awarded to four students each year for excellence in Physical or Biological Sciences, Engineering or Mathematics. 
+- I have been awarded the [Leathersellers' Graduate Scholarship](https://www.fitz.cam.ac.uk/college-life/fees-funding-and-awards/postgraduate-scholarships-and-prizes) by Fitzwilliam College and The Leathersellers' Company, one of the ancient Livery Companies of the City of London. The scholarship is awarded to four students each year for excellence in Physical or Biological Sciences, Engineering or Mathematics. 
 - A shorter version of our latest work on [Neural ODE Processes](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_66.pdf) has been accepted to the Machine Learning in the Physical Sciences NeurIPS 2020 Workshop. 
 - Our paper [On Second Order Behaviour in Augmented Neural ODEs](https://arxiv.org/abs/2006.07220) has been accepted at NeurIPS 2020. 
 - [Deep Graph Mapper: Seeing Graphs through the Neural Lens](https://arxiv.org/abs/2002.03864) has been accepted to the Topological Data Analysis and Beyond NeurIPS 2020 Workshop. 

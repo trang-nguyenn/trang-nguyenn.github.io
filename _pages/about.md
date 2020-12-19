@@ -31,4 +31,5 @@ has been accepted at [AAAI-20](https://aaai.org/Conferences/AAAI-20/) in New Yor
 
 ## Teaching 
 
+- Supervising the Cambrdige 2nd year course on [Data Science](https://www.cl.cam.ac.uk/teaching/2021/DataSci/)
 - Supervising the Cambrdige 3rd year course on [Quantum Computing](https://www.cl.cam.ac.uk/teaching/1920/QuantComp/)

@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 I am a second-year PhD student in the Department of Computer Science, University of Cambridge, supervised by
-[Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/). My research is mainly focused on neural networks able to extract and exploit topological information from data. At the same time, I am working on the science of deep learning using tools from algebraic and differential topology.
+[Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/). I am working on topological and geometric deep learning. 
 
-In 2019 I have graduated with distinction the MPhil in Advanced Computer Science, 
-while also receiving the Best MPhil Student Award. Over the summer of 2019 I interned at Google X, where I worked 
+In 2020 I interned at Google Brain. In 2019 I have graduated with distinction the MPhil in Advanced Computer Science at Cambridge with a Best MPhil Student Award. That summer, I interned at Google X, where I worked 
 on Reinforcement Learning as part of the [Everyday Robot Project](https://x.company/projects/everyday-robots). 
-Previously, I did my undergraduate at The University of 
+Previously, I did my undergraduate studies at The University of 
 Manchester in the UK with an [award-winning](https://www.manchester.ac.uk/discover/news/multiple-successes-for-manchester-undergrads-at-worlds-most-prestigious-student-awards/) dissertation on *Text to Image Synthesis using Generative Adversarial Networks* supervised 
 by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/). 
 
 ## News
 
-- New preprint: [Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks](https://arxiv.org/abs/2103.03212)
+- Gave a presentation on our latest work at the [Math Machine Learning seminar](https://www.mis.mpg.de/montufar/seminars/math-ml-seminar.html) organised by The Max Plank Institute for Mathematics in the Sciences and UCLA. Slides can be found [here](https://crisbodnar.github.io/files/mml_talk.pdf).
+- [Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks](https://arxiv.org/abs/2103.03212) was accepted as a spotlight presentation to the [Geometrical and Topological Representation Learning](https://gt-rl.github.io/) workshop at ICLR 2021. 
 - [Neural ODE Processes](https://openreview.net/forum?id=27acGyyI1BY) was accepted as a poster to ICLR 2021. 
 - I have been awarded the [Leathersellers' Graduate Scholarship](https://www.fitz.cam.ac.uk/college-life/fees-funding-and-awards/postgraduate-scholarships-and-prizes) by Fitzwilliam College and The Leathersellers' Company, one of the ancient Livery Companies of the City of London. The scholarship is awarded to four students each year for excellence in Physical or Biological Sciences, Engineering or Mathematics. 
 - Our paper [On Second Order Behaviour in Augmented Neural ODEs](https://arxiv.org/abs/2006.07220) has been accepted at NeurIPS 2020. 

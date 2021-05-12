@@ -17,8 +17,8 @@ by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/).
 
 ## News
 
+- [Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks](https://arxiv.org/abs/2103.03212) was accepted as a short talk to ICML 2021. Previously, the paper was accepted as a spotlight presentation to the [Geometrical and Topological Representation Learning](https://gt-rl.github.io/) workshop at ICLR 2021. 
 - Gave a talk with my co-authors on our [MPSN paper](https://arxiv.org/abs/2103.03212) at the [Math Machine Learning seminar](https://www.mis.mpg.de/montufar/seminars/math-ml-seminar.html) organised by The Max Plank Institute for Mathematics in the Sciences and UCLA. A recording is available at [this link](https://media.mis.mpg.de/mml/2021-04-08/) and slides can be found [here](https://crisbodnar.github.io/files/mml_talk.pdf).
-- [Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks](https://arxiv.org/abs/2103.03212) was accepted as a spotlight presentation to the [Geometrical and Topological Representation Learning](https://gt-rl.github.io/) workshop at ICLR 2021. 
 - [Neural ODE Processes](https://openreview.net/forum?id=27acGyyI1BY) was accepted as a poster to ICLR 2021. 
 - I have been awarded the [Leathersellers' Graduate Scholarship](https://www.fitz.cam.ac.uk/college-life/fees-funding-and-awards/postgraduate-scholarships-and-prizes) by Fitzwilliam College and The Leathersellers' Company, one of the ancient Livery Companies of the City of London. The scholarship is awarded to four students each year for excellence in Physical or Biological Sciences, Engineering or Mathematics. 
 - Our paper [On Second Order Behaviour in Augmented Neural ODEs](https://arxiv.org/abs/2006.07220) has been accepted at NeurIPS 2020. 

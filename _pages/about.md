@@ -17,7 +17,7 @@ by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/).
 
 ## News
 
-- We gave a talk on [CW Networks](https://arxiv.org/abs/2106.12575) at the [LoGaG reading group](https://hannes-stark.com/logag-reading-group): [[Recording]](https://youtu.be/MTQGNVTn9lQ) | [[Slides]](https://crisbodnar.github.io/files/cwn_logag_talk.pdf)
+- We gave a talk on [CW Networks](https://arxiv.org/abs/2106.12575) at the [LoGaG reading group](https://hannes-stark.com/logag-reading-group): [[Recording]](https://youtu.be/MTQGNVTn9lQ) [[Slides]](https://crisbodnar.github.io/files/cwn_logag_talk.pdf)
 - We released a new preprint: [Weisfeiler and Lehman Go Cellular: CW Networks](https://arxiv.org/abs/2106.12575). We obtain SOTA results on molecular benchmarks. 
 - I will be joining Twitter Research as a research intern in September 2021 to work on Topological & Geometric Deep Learning with [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) and his team. 
 - [Deep Graph Mapper: Seeing Graphs through the Neural Lens](https://www.frontiersin.org/articles/10.3389/fdata.2021.680535/full) has been accepted to Frontiers in Big Data as part of the [Topology in Real-World Machine Learning and Data Analysis](https://www.frontiersin.org/research-topics/14256/topology-in-real-world-machine-learning-and-data-analysis) research topic. 

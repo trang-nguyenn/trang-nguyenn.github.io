@@ -15,9 +15,9 @@ by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/).
 
 ## News
 
+- Sept 2021: [Weisfeiler and Lehman Go Cellular: CW Networks](https://arxiv.org/abs/2106.12575) has been accepted to NeurIPS 2021. We obtain SOTA results on molecular benchmarks by modelling molecules as cell complexes. 
 - Sept 2021: We gave a talk on [CW Networks](https://arxiv.org/abs/2106.12575) at the [LoGaG reading group](https://hannes-stark.com/logag-reading-group): [[Recording]](https://youtu.be/MTQGNVTn9lQ) [[Slides]](https://crisbodnar.github.io/files/cwn_logag_talk.pdf)
 - Sept 2021: I've joined Twitter as a research intern to work on Topological & Geometric Deep Learning with [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) and the Cortex team. 
-- June 2021: We released a new preprint: [Weisfeiler and Lehman Go Cellular: CW Networks](https://arxiv.org/abs/2106.12575). We obtain SOTA results on molecular benchmarks. 
 - April 2021: [Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks](https://arxiv.org/abs/2103.03212) was accepted as a short talk to ICML 2021. Previously, the paper was accepted as a spotlight presentation to the [Geometrical and Topological Representation Learning](https://gt-rl.github.io/) workshop at ICLR 2021. 
 - April 2021: Gave a talk with my co-authors on our [MPSN paper](https://arxiv.org/abs/2103.03212) at the [Math Machine Learning seminar](https://www.mis.mpg.de/montufar/seminars/math-ml-seminar.html) organised by The Max Plank Institute for Mathematics in the Sciences and UCLA. A recording is available at [this link](https://media.mis.mpg.de/mml/2021-04-08/) and slides can be found [here](https://crisbodnar.github.io/files/mml_talk.pdf).
 - Feb 2021: [Neural ODE Processes](https://openreview.net/forum?id=27acGyyI1BY) was accepted as a poster to ICLR 2021. 

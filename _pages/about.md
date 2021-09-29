@@ -15,7 +15,7 @@ by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/).
 
 ## News
 
-- Sept 2021: [Weisfeiler and Lehman Go Cellular: CW Networks](https://arxiv.org/abs/2106.12575) has been accepted to NeurIPS 2021. We obtain SOTA results on molecular benchmarks by modelling molecules as cell complexes. 
+- Sept 2021: [Weisfeiler and Lehman Go Cellular: CW Networks](https://arxiv.org/abs/2106.12575) has been accepted to NeurIPS 2021. We obtain SOTA results on molecular benchmarks using cell complexes. 
 - Sept 2021: We gave a talk on [CW Networks](https://arxiv.org/abs/2106.12575) at the [LoGaG reading group](https://hannes-stark.com/logag-reading-group): [[Recording]](https://youtu.be/MTQGNVTn9lQ) [[Slides]](https://crisbodnar.github.io/files/cwn_logag_talk.pdf)
 - Sept 2021: I've joined Twitter as a research intern to work on Topological & Geometric Deep Learning with [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) and the Cortex team. 
 - April 2021: [Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks](https://arxiv.org/abs/2103.03212) was accepted as a short talk to ICML 2021. Previously, the paper was accepted as a spotlight presentation to the [Geometrical and Topological Representation Learning](https://gt-rl.github.io/) workshop at ICLR 2021. 

@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 I am a third-year PhD student in the Department of Computer Science, University of Cambridge, supervised by
-[Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/). I am working on topological approaches for geometric deep learning.  
+[Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/). My research uses applied Topology and Differential Geometry for understanding and developing Geometric Deep Learning models with a focus on Graph Neural Networks. 
 
-I am currently on a research internship at Twitter. I've previously interned at Google Brain (2020) and Google X (2019). In 2019, I have graduated with distinction the MPhil in Advanced Computer Science at Cambridge with a Best MPhil Student Award. Previously, I did my undergraduate studies at The University of 
-Manchester (UK) with an [award-winning](https://www.manchester.ac.uk/discover/news/multiple-successes-for-manchester-undergrads-at-worlds-most-prestigious-student-awards/) dissertation on *Text to Image Synthesis using Generative Adversarial Networks* supervised 
+I am a [Microsoft Research PhD Fellow](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!people) (2021). Currently, I am on a research internship at [Twitter Cortex](https://cortex.twitter.com/) and previously interned at Google Brain (2020) and Google X (2019). In 2019, I have graduated with distinction the MPhil in Advanced Computer Science at Cambridge with a Best MPhil Student Award. Previously, I did my undergraduate studies at The University of 
+Manchester (UK) with an [award-winning](https://www.manchester.ac.uk/discover/news/multiple-successes-for-manchester-undergrads-at-worlds-most-prestigious-student-awards/) research dissertation supervised 
 by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/). 
 
 ## News
 
+- Nov 2021: [Weisfeiler and Lehman Go Cellular](https://arxiv.org/abs/2106.12575) was accepted as an oral presentation to the [ELLIS ML for Molecule Discovery Workshop](https://moleculediscovery.github.io/workshop2021/).
 - Oct 2021: I have been awarded a [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!people). 
 - Sept 2021: [Weisfeiler and Lehman Go Cellular: CW Networks](https://arxiv.org/abs/2106.12575) has been accepted to NeurIPS 2021. We obtain SOTA results on molecular benchmarks using cell complexes. 
 - Sept 2021: We gave a talk on [CW Networks](https://arxiv.org/abs/2106.12575) at the [LoGaG reading group](https://hannes-stark.com/logag-reading-group): [[Recording]](https://youtu.be/MTQGNVTn9lQ) [[Slides]](https://crisbodnar.github.io/files/cwn_logag_talk.pdf)

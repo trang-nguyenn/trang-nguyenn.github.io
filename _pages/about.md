@@ -15,6 +15,9 @@ by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/).
 
 ## News
 
+- Jan 2022: I was featured alongside many prominent
+Graph ML researchers in an [ample blog post](https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc) by Michael Bronstein and Petar Veličković  
+, which aims to review and predict the new directions in the field. 
 - Nov 2021: [Weisfeiler and Lehman Go Cellular](https://arxiv.org/abs/2106.12575) was accepted as an oral presentation to the [ELLIS ML for Molecule Discovery Workshop](https://moleculediscovery.github.io/workshop2021/).
 - Oct 2021: I have been awarded a [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!people). 
 - Sept 2021: [Weisfeiler and Lehman Go Cellular: CW Networks](https://arxiv.org/abs/2106.12575) has been accepted to NeurIPS 2021. We obtain SOTA results on molecular benchmarks using cell complexes. 

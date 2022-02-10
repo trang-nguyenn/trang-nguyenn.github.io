@@ -9,12 +9,12 @@ redirect_from:
 I am a third-year PhD student in the Department of Computer Science, University of Cambridge, supervised by
 [Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/). My research uses applied Topology and Differential Geometry for understanding and developing Geometric Deep Learning models with a focus on Graph Neural Networks. 
 
-I am a [Microsoft Research PhD Fellow](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!people) (2021). Currently, I am on a research internship at [Twitter Cortex](https://cortex.twitter.com/) and previously interned at Google Brain (2020) and Google X (2019). In 2019, I have graduated with distinction the MPhil in Advanced Computer Science at Cambridge with a Best MPhil Student Award. Previously, I did my undergraduate studies at The University of 
-Manchester (UK) with an [award-winning](https://www.manchester.ac.uk/discover/news/multiple-successes-for-manchester-undergrads-at-worlds-most-prestigious-student-awards/) research dissertation supervised 
+I am a [Microsoft Research PhD Fellow](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!people) (2021) and a former research intern at [Twitter Cortex](https://cortex.twitter.com/) (2021), Google Brain (2020) and Google X (2019). In 2019, I have graduated with distinction the MPhil in Advanced Computer Science at Cambridge with a Best MPhil Student Award. Previously, I did my undergraduate studies at The University of Manchester (UK) with an [award-winning](https://www.manchester.ac.uk/discover/news/multiple-successes-for-manchester-undergrads-at-worlds-most-prestigious-student-awards/) research dissertation supervised 
 by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/). 
 
 ## News
 
+- Feb 2022: New preprint - [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/abs/2202.04579). I will give a talk on the paper on the 8th of March at [Sorbonne Université](https://www.sorbonne-universite.fr/en/events/workshop-recent-advances-graph-machine-learning), followed by another talk on the 11th of March in the Department of Mathematics, University of Oxford. 
 - Jan 2022: I was featured alongside many prominent
 Graph ML researchers in an [ample blog post](https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc) by Michael Bronstein and Petar Veličković, which aims to review and predict the new directions in the field. 
 - Nov 2021: [Weisfeiler and Lehman Go Cellular](https://arxiv.org/abs/2106.12575) was accepted as an oral presentation to the [ELLIS ML for Molecule Discovery Workshop](https://moleculediscovery.github.io/workshop2021/).

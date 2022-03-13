@@ -14,7 +14,7 @@ by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/).
 
 ## News
 
-- Feb 2022: New preprint - [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/abs/2202.04579). I will give a talk on the paper on the 8th of March at [Sorbonne Université](https://www.sorbonne-universite.fr/en/events/workshop-recent-advances-graph-machine-learning), followed by another talk on the 11th of March in the Department of Mathematics, University of Oxford. 
+- Feb 2022: New preprint - [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/abs/2202.04579). I give a talk about the paper on the 8th of March at [Sorbonne Université](https://www.sorbonne-universite.fr/en/events/workshop-recent-advances-graph-machine-learning), followed by another talk on the 11th of March in the Department of Mathematics, University of Oxford. The slides can be found [here](https://crisbodnar.github.io/talks/).
 - Jan 2022: I was featured alongside many prominent
 Graph ML researchers in an [ample blog post](https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc) by Michael Bronstein and Petar Veličković, which aims to review and predict the new directions in the field. 
 - Nov 2021: [Weisfeiler and Lehman Go Cellular](https://arxiv.org/abs/2106.12575) was accepted as an oral presentation to the [ELLIS ML for Molecule Discovery Workshop](https://moleculediscovery.github.io/workshop2021/).

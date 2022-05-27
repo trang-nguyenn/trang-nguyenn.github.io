@@ -12,8 +12,6 @@ Hi there! My name is Cris, and I am a third-year PhD student in the Department o
 In support of my research activity, I was awarded a [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!people) (2021). I've also spent significant time in industry as a research intern at [Twitter Cortex](https://cortex.twitter.com/) (2021), Google Brain (2020), and as an AI Resident at Google X (2019). In 2019, I graduated with distinction the MPhil in Advanced Computer Science at Cambridge with a Best MPhil Student Award. Previously, I did my undergraduate studies at The University of Manchester (UK) with an [award-winning](https://www.manchester.ac.uk/discover/news/multiple-successes-for-manchester-undergrads-at-worlds-most-prestigious-student-awards/) research dissertation supervised 
 by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/). 
 
-**I am currently on the job market looking for Research Scientist positions. If you like my research, please reach out!**
-
 ## News
 
 - May 2022: We wrote a blogpost about [Neural Sheaf Diffusion](https://towardsdatascience.com/neural-sheaf-diffusion-for-deep-learning-on-graphs-bfa200e6afa6)

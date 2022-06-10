@@ -16,8 +16,8 @@ by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/).
 
 ## News
 
+- June 2022: We wrote a blogpost about [Topological Message Passing](https://towardsdatascience.com/a-new-computational-fabric-for-graph-neural-networks-280ea7e3ed1a) and [Neural Sheaf Diffusion](https://towardsdatascience.com/neural-sheaf-diffusion-for-deep-learning-on-graphs-bfa200e6afa6) 
 - May 2022: Famous ML YouTuber Aleksa Gordić made a [video explaining our Neural Sheaf Diffusion paper](https://www.youtube.com/watch?v=JiQmkhsbRwk) and including lots of nice intuitions of sheaf theory. 
-- May 2022: We wrote a blogpost about [Neural Sheaf Diffusion](https://towardsdatascience.com/neural-sheaf-diffusion-for-deep-learning-on-graphs-bfa200e6afa6)
 - Feb 2022: New preprint - [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/abs/2202.04579). I gave a talk about the paper on the 8th of March at [Sorbonne Université](https://www.sorbonne-universite.fr/en/events/workshop-recent-advances-graph-machine-learning), followed by another talk on the 11th of March in the Department of Mathematics, University of Oxford. The slides can be found [here](https://crisbodnar.github.io/talks/).
 - Jan 2022: I was featured alongside many prominent
 Graph ML researchers in an [ample blog post](https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc) by Michael Bronstein and Petar Veličković, which aims to review and predict the new directions in the field. 

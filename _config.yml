@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cristian Bodnar"
+title                    : "Trang Nguyen"
 title_separator          : "-"
-name                     : &name "Cristian Bodnar"
-description              : &description "PhD Student in Computer Science at The University of Cambridge"
-url                      : https://crisbodnar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Trang Nguyen"
+description              : &description "Ph.D. Candidate at University College Dublin"
+url                      : https://trang-nguyenn.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "crisbodnar/crisbodnar.github.io"
+repository               : "trang-nguyenn.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cristian Bodnar"
-  avatar           : "cris_profile.jpg"
-  bio              : "PhD Student, Department of Computer Science, University of Cambridge"
-  location         : "Cambridge, UK"
+  name             : "Trang Nguyen"
+  avatar           : "unnamed.jpg"
+  bio              : "Ph.D. Candidate, School of Computer Science, University College Dublin"
+  location         : "Dublin, Ireland"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=pSmh9tkAAAAJ&hl=en"
-  email            : "cb2015@cam.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Cristian_Bodnar"
+  googlescholar    : "https://scholar.google.com/citations?user=LHlN04MAAAAJ&hl=en"
+  email            :
+  researchgate     : "https://www.researchgate.net/profile/Thu-Trang-Nguyen-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "crisbodnar"
+  github           : "trang-nguyenn"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "crisbodnar"
+  linkedin         : "https://www.linkedin.com/in/trang-nguyenn/"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "crisbodnar"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -174,19 +174,19 @@ kramdown:
 
 
 # Collections
-# colle/ctions:
-  # teaching:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # publications:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # portfolio:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # talks:
-  #   output: true
-  #   permalink: /:collection/:path/
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -225,7 +225,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
       comments: true
   # _portfolio
   - scope:

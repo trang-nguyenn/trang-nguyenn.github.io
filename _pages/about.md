@@ -1,30 +1,23 @@
 ---
 permalink: /
-excerpt: "Cristian Bodnar"
+title: 
+excerpt: "Trang Nguyen"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hi there! My name is Cris, and I am a third-year PhD student in the Department of Computer Science, University of Cambridge, supervised by
-[Prof Pietro Liò](https://www.cl.cam.ac.uk/~pl219/). My research uses applied Topology and Differential Geometry for understanding and developing Geometric Deep Learning models suitable for problems presenting an underlying combinatorial structure. Within this area, I am particularly interested in theoretical questions of practical importance for graph representation learning. 
 
-In support of my research activity, I was awarded a [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!people) (2021). I've also spent significant time in industry as a research intern at [Twitter Cortex](https://cortex.twitter.com/) (2021), Google Brain (2020), and as an AI Resident at Google X (2019). In 2019, I graduated with distinction the MPhil in Advanced Computer Science at Cambridge with a Best MPhil Student Award. Previously, I did my undergraduate studies at The University of Manchester (UK) with an [award-winning](https://www.manchester.ac.uk/discover/news/multiple-successes-for-manchester-undergrads-at-worlds-most-prestigious-student-awards/) research dissertation supervised 
-by [Dr Jonathan Shapiro](http://www.cs.man.ac.uk/~jls/). My Erdős number is 3. 
+Hi there, thanks for stopping by! 
 
-**Announcement: I am officially on the job market. If you like my research, please get in touch!**
+I am a third-year PhD student in Computer Science at University College Dublin, working on machine learning and Explainable Artificial Intelligence (XAI). I am fortunate to be advised by [Assoc. Prof. Georgiana Ifrim](https://people.ucd.ie/georgiana.ifrim), and to be supported by [Science Foundation Ireland (SFI) Centre for Reseach Training in Machine Learning](https://www.ml-labs.ie/.).
 
-## News
+My primary research interests are in interpretable machine learning and its application. In particular, I aspire to helping humans to communicate with machine learning systems by building tools to examine explanations of decisions made by machine learning (ML) models. Topics that I focus includes:
 
-- June 2022: We wrote a blogpost about [Topological Message Passing](https://towardsdatascience.com/a-new-computational-fabric-for-graph-neural-networks-280ea7e3ed1a) and [Neural Sheaf Diffusion](https://towardsdatascience.com/neural-sheaf-diffusion-for-deep-learning-on-graphs-bfa200e6afa6) 
-- May 2022: Famous ML YouTuber Aleksa Gordić made a [video explaining our Neural Sheaf Diffusion paper](https://www.youtube.com/watch?v=JiQmkhsbRwk) and including lots of nice intuitions of sheaf theory. 
-- Feb 2022: New preprint - [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/abs/2202.04579). I gave a talk about the paper on the 8th of March at [Sorbonne Université](https://www.sorbonne-universite.fr/en/events/workshop-recent-advances-graph-machine-learning), followed by another talk on the 11th of March in the Department of Mathematics, University of Oxford. The slides can be found [here](https://crisbodnar.github.io/talks/).
-- Jan 2022: I was featured alongside many prominent
-Graph ML researchers in an [ample blog post](https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc) by Michael Bronstein and Petar Veličković, which aims to review and predict the new directions in the field. 
-- Nov 2021: [Weisfeiler and Lehman Go Cellular](https://arxiv.org/abs/2106.12575) was accepted as an oral presentation to the [ELLIS ML for Molecule Discovery Workshop](https://moleculediscovery.github.io/workshop2021/).
-- Oct 2021: I have been awarded a [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!people). 
-- Sept 2021: [Weisfeiler and Lehman Go Cellular: CW Networks](https://arxiv.org/abs/2106.12575) has been accepted to NeurIPS 2021. We obtain SOTA results on molecular benchmarks using cell complexes. 
-- Sept 2021: I've joined Twitter as a research intern to work on Topological & Geometric Deep Learning with [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) and the Cortex team. 
-- April 2021: [Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks](https://arxiv.org/abs/2103.03212) was accepted as a short talk to ICML 2021. Previously, the paper was accepted as a spotlight presentation to the [Geometrical and Topological Representation Learning](https://gt-rl.github.io/) workshop at ICLR 2021. 
-- Feb 2021: [Neural ODE Processes](https://openreview.net/forum?id=27acGyyI1BY) was accepted as a poster to ICLR 2021. 
-- May 2020: I have been awarded the [Leathersellers' Graduate Scholarship](https://www.fitz.cam.ac.uk/college-life/fees-funding-and-awards/postgraduate-scholarships-and-prizes) by Fitzwilliam College and The Leathersellers' Company, one of the ancient Livery Companies of the City of London. The scholarship is awarded to four students each year for excellence in Physical or Biological Sciences, Engineering or Mathematics. 
+  * **Evaluation**: methods and metrics to quantitatively assess reasons for decisions made by ML models. Many ML-models, including deep learning models, are very complicated and unable to provide human being with explanations for their decisions. Scientists attempt to tackle this problem by provide post-hoc explanation methods (*XAI methods*), i.e. a method that aim to explain the model in question. However, these methods often creates another problem: they do not agree with each other. My research focuses on solving this problem by proposing a quantitative method and a metric to compare and assess these XAI methods.
+
+  * **Knowledge**: methods to learn new knowlege using machine learning system. With the proposed framework to evaluate XAI methods, my research aims to find out robust and legible explanations that can assist human in obtain new knowledge previously unknown, either by pointing out which part of the data is critical for a machine learning model, or troubleshooting a model by highlighting its inherent bias.
+
+  * **Health Intelligence Application**: machine learning for overcoming the knowledge and reasoning bottlenecks in biomedical and heathcare-related tasks: e.g. diagnosis, genetic understanding, disease prevention, and sports analytics.
+
+I also have broad interest in deep learning, sequence learning, and time series analysis. 

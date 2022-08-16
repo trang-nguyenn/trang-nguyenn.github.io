@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, thanks for stopping by! 
+Hello, 
 
-I am a third-year PhD student in Computer Science at University College Dublin, working on machine learning and Explainable Artificial Intelligence (XAI). I am fortunate to be advised by [Assoc. Prof. Georgiana Ifrim](https://people.ucd.ie/georgiana.ifrim), and to be supported by [Science Foundation Ireland (SFI) Centre for Reseach Training in Machine Learning](https://www.ml-labs.ie/.).
+I am a PhD student in Computer Science at University College Dublin, working on machine learning and Explainable Artificial Intelligence (XAI). I am fortunate to be advised by [Assoc. Prof. Georgiana Ifrim](https://people.ucd.ie/georgiana.ifrim), and to be supported by [Science Foundation Ireland (SFI) Centre for Reseach Training in Machine Learning](https://www.ml-labs.ie/.).
 
 My primary research interests are interpretable machine learning and its application. In particular, I aspire to helping humans to communicate with machine learning systems by building tools to examine explanations of decisions made by machine learning (ML) models. Topics that I focus includes:
 

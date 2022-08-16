@@ -26,5 +26,5 @@ and my journey of learning, growing, and becoming a better version of myself.
 * Simon Sinek - [Leadership: Empathy & Perspectives](https://www.youtube.com/watch?v=RyTQ5-SQYTo)
 
 **Others**
-* Tony Zhou and Taylor Ramos: [Every Frame A Painting](https://www.youtube.com/c/everyframeapainting): a collections of 28 videos essays about Film Editing 
+* Tony Zhou and Taylor Ramos: [Every Frame A Painting](https://www.youtube.com/c/everyframeapainting): a collections of 28 video essays about Film Editing 
 * Brady Haran: [Numberphile](https://www.youtube.com/c/numberphile/featured): an educational YouTube channel featuring videos that explore topics from a variety of fields of mathematics

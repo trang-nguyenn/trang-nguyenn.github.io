@@ -27,4 +27,4 @@ and my journey of learning, growing, and becoming a better version of myself.
 
 **Others**
 * Tony Zhou and Taylor Ramos: [Every Frame A Painting](https://www.youtube.com/c/everyframeapainting): a collections of 28 videos essays about Film Editing 
-* Brady Haran: [Numberphile](https://www.youtube.com/c/numberphile/featured): n educational YouTube channel featuring videos that explore topics from a variety of fields of mathematics
+* Brady Haran: [Numberphile](https://www.youtube.com/c/numberphile/featured): an educational YouTube channel featuring videos that explore topics from a variety of fields of mathematics

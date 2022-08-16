@@ -5,7 +5,7 @@ permalink: /goodreads/
 author_profile: true
 ---
 
-Outside research, I consider myself is a believer and continuous learner. 
+Outside research, I consider myself a believer and continuous learner. 
 I believe that the capability of growth in human beings is not limited by age, qualifications, or job titles. 
 The more we *learn*, the more we *know*, the more humble and the less discriminative we will be. 
 True personal development brings us wider perspectives, enables us making positive net impact, and let us live a life with more freedom and happiness.

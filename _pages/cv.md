@@ -30,7 +30,7 @@ Work Experiences
     * Researched and enhanced accuracy of Credit Score V2 model, achieving Gini coefficient of 0.65-0.95 on backtesting datasets
     * Conducted data preparation, data quality monitoring, feature engineering, and hyper parameters tuning on 100TB+ dataset using PySpark
     * Evaluated, back-tested the Credit Scoring model; Advised optimal use of credit score for different products based on model back-test result
-* Data Science Project (09/2017 - 05/2018) @ [FedEx](https://www.fedex.com/en-us/home.html)
+* Data Science Capstone (09/2017 - 05/2018) @ [FedEx](https://www.fedex.com/en-us/home.html)
     * Proposed the idea of combining machine learning techniques and time series analysis to make prediction
     * Gathered, cleaned, analyzed, engineered features from multiple sources to build predictive model that saved time and human efforts of doing manual budgeting
     * Delivered a prediction model using Random Forest and Time Series Analysis that achieved Mean Absolute Percent Error (MAPE) of under 5% on 3-month data test data

@@ -12,8 +12,8 @@ Download my [resumé](https://trang-nguyenn.github.io/files/Trang_CV.pdf).
 
 Education
 ======
-* Ph.D in Computer Science, [University College Dublin](https://www.ucd.ie/), 2024 (expected)
-* M.B.A. and M.S. in Business Analytics, [Arizona State University](https://www.asu.edu/), 2018
+* Ph.D in Computer Science, [University College Dublin](https://www.ucd.ie/cs/), 2024 (expected)
+* M.B.A. and M.S. in Business Analytics, [Arizona State University](https://wpcarey.asu.edu/masters-programs/business-analytics), 2018
 * B.S. in Maritime Studies, [Nanyang Technological University](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-maritime-studies), 2012
 
 Research

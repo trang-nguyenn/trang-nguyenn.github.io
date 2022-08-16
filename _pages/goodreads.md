@@ -17,7 +17,7 @@ and my journey of learning, growing, and becoming a better version of myself.
 **Life hacks**
 * Sir Ken Robinson: [About Passion](https://www.youtube.com/watch?v=-M8Hl5MUr8w)
 * Emily Esfahani Smith: [There's more to life than being happy](https://www.youtube.com/watch?v=y9Trdafp83U)
-* Simon Sinek:[What A Real Love Really Is](https://www.youtube.com/watch?v=01ZCnCXpG4A)
+* Simon Sinek: [What A Real Love Really Is](https://www.youtube.com/watch?v=01ZCnCXpG4A)
 * Mihaly Csikszentmihalyi: [The FLOW state](https://www.youtube.com/watch?v=I_u-Eh3h7Mo)
 * Guy Winch: [How to practice emotional first aid](https://www.youtube.com/watch?v=F2hc2FLOdhI)
 

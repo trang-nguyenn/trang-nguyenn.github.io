@@ -14,7 +14,7 @@ Education
 ======
 * Ph.D in Computer Science, [University College Dublin](https://www.ucd.ie/), 2024 (expected)
 * M.B.A. and M.S. in Business Analytics, [Arizona State University](https://www.asu.edu/), 2018
-* B.S. in Maritime Studies, [Nanyang Technological University](https://www.ntu.edu.sg/), 2012
+* B.S. in Maritime Studies, [Nanyang Technological University](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-maritime-studies), 2012
 
 Research
 ======

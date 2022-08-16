@@ -17,6 +17,10 @@ main:
     
   - title: "CV"
     url: /cv/
-    
+  
+  - title: "Good Reads"
+    url: /goodreads/
+  
+   
   # - title: "Guide"
   #   url: /markdown/

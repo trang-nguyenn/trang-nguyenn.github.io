@@ -7,5 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Download my [resumé](https://github.com/trang-nguyenn/trang-nguyenn.github.io/blob/master/files/Trang_CV.pdf)
-
+Download my [resumé](https://github.com/trang-nguyenn/trang-nguyenn.github.io/blob/master/files/Trang_CV.pdf).

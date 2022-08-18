@@ -15,15 +15,15 @@ and my journey of learning, growing, and becoming a better version of myself.
 
 
 **Life hacks**
-* Sir Ken Robinson: [About Passion](https://www.youtube.com/watch?v=-M8Hl5MUr8w)
-* Emily Esfahani Smith: [There's more to life than being happy](https://www.youtube.com/watch?v=y9Trdafp83U)
-* Simon Sinek: [What A Real "Love" Really Is](https://www.youtube.com/watch?v=01ZCnCXpG4A)
-* Mihaly Csikszentmihalyi: [The FLOW state](https://www.youtube.com/watch?v=I_u-Eh3h7Mo)
-* Guy Winch: [How to practice emotional first aid](https://www.youtube.com/watch?v=F2hc2FLOdhI)
+* Sir Ken Robinson: Finding Your Element: How to Discover Your Talents and Passions and Transform Your Life. [[BOOK]](https://www.amazon.com/Finding-Your-Element-Discover-Transform/dp/0143125516) [[TALK]](https://www.youtube.com/watch?v=-M8Hl5MUr8w)
+* Emily Esfahani Smith: The Power of Meaning. [[BOOK]](https://www.goodreads.com/book/show/36228575-the-power-of-meaning) [[TALK]](https://www.youtube.com/watch?v=y9Trdafp83U)
+* Mihaly Csikszentmihalyi: Flow: The Psychology of Optimal Experience. [[BOOK]](https://www.goodreads.com/book/show/66354.Flow) [[TALK]](https://www.youtube.com/watch?v=I_u-Eh3h7Mo)
+* Guy Winch: Emotional First Aid: Healing Rejection, Guilt, Failure, and Other Everyday Hurts. [[BOOK]](https://www.guywinch.com/books/emotional-first-aid/) [[Summary]](https://ideas.ted.com/7-ways-to-practice-emotional-first-aid/)
 
 **Leadership**
-* Simon Sinek - [Why Leaders Eats Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
-* Simon Sinek - [Leadership: Empathy & Perspectives](https://www.youtube.com/watch?v=RyTQ5-SQYTo)
+* Simon Sinek - Start with Why: How Great Leaders Inspire Everyone to Take Action. [[BOOK]](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)  [[TALK](https://www.youtube.com/watch?v=u4ZoJKF_VuA)]
+* Simon Sinek - Leaders Eat Last. [[BOOK]](https://simonsinek.com/books/leaders-eat-last/) [[TALK](https://www.youtube.com/watch?v=ReRcHdeUG9Y)] 
+
 
 **Others**
 * Tony Zhou and Taylor Ramos: [Every Frame A Painting](https://www.youtube.com/c/everyframeapainting): a collections of 28 video essays about Film Editing 

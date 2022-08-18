@@ -23,7 +23,7 @@ and my journey of learning, growing, and becoming a better version of myself.
 **Leadership**
 * Simon Sinek - Start with Why: How Great Leaders Inspire Everyone to Take Action. [[BOOK]](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)  [[TALK](https://www.youtube.com/watch?v=u4ZoJKF_VuA)]
 * Simon Sinek - Leaders Eat Last. [[BOOK]](https://simonsinek.com/books/leaders-eat-last/) [[TALK](https://www.youtube.com/watch?v=ReRcHdeUG9Y)] 
-* Marshall B. Rosenberg - Nonviolent Communication [[BOOK]](https://www.amazon.ca/dp/189200528X/?tag=wwwinccom-20)
+<!-- * Marshall B. Rosenberg - Nonviolent Communication [[BOOK]](https://www.amazon.ca/dp/189200528X/?tag=wwwinccom-20) -->
 
 **Others**
 * Tony Zhou and Taylor Ramos - [Every Frame A Painting](https://www.youtube.com/c/everyframeapainting): a collections of 28 video essays about Film Editing 

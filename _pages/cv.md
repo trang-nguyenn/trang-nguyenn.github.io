@@ -45,6 +45,12 @@ Work Experiences
     *  Proposed, researched, and implemented use of Monte Carlo simulation and Stochastic process in price modeling and scenario analysis using @RISK
 
 
+Professional Activities
+======
+* Reviewer, European Conference on Machine Learning (ECML), 07/2022
+* Reviewer, International Workshop on Advanced Analytics & Learning on Temporal Data (AALTD), 07/2022
+* Co-supervisor, Undergraduate Final Year Research Project, University College Dublin, 05/2021
+
 Skills
 ======
 * Programming: Python, R

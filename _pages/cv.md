@@ -26,9 +26,12 @@ Research
 
 Work Experiences
 ======
-* Data Analyst (08/2018 - 07/2019) @ [Trusting Social](https://trustingsocial.com/)
-    * Researched and enhanced accuracy of Credit Score V2 model, achieving Gini coefficient of 0.65-0.95 on backtesting datasets
-    * Conducted data preparation, data quality monitoring, feature engineering, and hyper parameters tuning on 100TB+ dataset using PySpark
+* Data Scientist (08/2018 - 07/2019) @ [Trusting Social](https://trustingsocial.com/)
+    * **Credit Score Modeling using Mobile Data**: 
+      *  Researched and Optimized performance of Credit Score model for 60+ million of unbanked customers using Python and PySpark; Proposed and Engineered new features
+      *  Tuned model hyperparameters, achieving 30% increase in Gini of back-testing datasets.
+  * **Data Quality Monitoring**: 
+    * Automated quality monitoring workflow on 100+ TB of data with real-time dashboard using Redash and mySQL on AWS, improving reliability and saving 10+ hours weekly for analytics team.
     * Evaluated, back-tested the Credit Scoring model; Advised optimal use of credit score for different products based on model back-test result
 * Data Science Capstone (09/2017 - 05/2018) @ [FedEx](https://www.fedex.com/en-us/home.html)
     * Proposed the idea of combining machine learning techniques and time series analysis to make prediction

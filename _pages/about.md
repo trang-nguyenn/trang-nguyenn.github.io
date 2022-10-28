@@ -20,4 +20,7 @@ My primary research interests are interpretable machine learning and its applica
 
   * **Health Intelligence Application**: machine learning for overcoming the knowledge and reasoning bottlenecks in biomedical and heathcare-related tasks: e.g. diagnosis, genetic understanding, antigen mapping, disease prevention, and sports analytics.
 
-I also have broad interest in deep learning, sequence learning, and time series analysis. 
+More information about my research can be found in my [research summary](https://github.com/trang-nguyenn/trang-nguyenn.github.io/raw/master/files/Trang_MSR_Summary.pdf) and [research statement](https://github.com/trang-nguyenn/trang-nguyenn.github.io/raw/master/files/Trang_MSR_Research_Statement.pdf).
+
+
+I also have broad interest in Responsible AI, Automated Reasoning, Deep Learning, Sequence Learning, and Time Series Analysis. 

@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download my [resumé](https://trang-nguyenn.github.io/files/Trang_CV.pdf).
+Download my [resumé](https://trang-nguyenn.github.io/files/TrangNguyen (12).pdf).
   
 
 Education
